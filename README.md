@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm 佐藤佑哉</h1>
 <h3 align="center">Android Engineer</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dao0203&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dao0203&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dao0203&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dao0203)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Sustenere**
 
-- 🌱 I’m currently learning **Jetpack Compose Hilt Dagger**
+- 🌱 I’m currently learning **Jetpack・Compose・Hilt・Dagger**
 
 - 📝 I regularly write articles on [https://qiita.com/dao0203](https://qiita.com/dao0203)
 
