@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm 佐藤佑哉</h1>
 <h3 align="center">Android Engineer</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dao0203&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on **Sustenere**
 
