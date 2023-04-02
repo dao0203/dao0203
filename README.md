@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm 佐藤佑哉</h1>
+<h2 align="center">岩手県立大学　ソフトウェア情報学部</h2>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dao0203&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
