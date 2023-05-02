@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sustenere**
 
-- 🌱 I’m currently learning **Jetpack・Compose・Hilt・Dagger**
+- 🌱 I’m currently learning **Kotlin & Flutter**
 
 - 📝 I regularly write articles on [https://qiita.com/dao0203](https://qiita.com/dao0203)
 
