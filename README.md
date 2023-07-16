@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 佐藤佑哉</h1>
+<h1 align="center">Hi 👋, I'm Yuya Sato</h1>
 <h2 align="center">Iwate Prefectural University：Faculty of software and information Science</h2>
 
 
