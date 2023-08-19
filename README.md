@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dao0203)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **Sustenere**
+- 🔭 I’m currently working on **Iwate Prefectural University**
 
 - 🌱 I’m currently learning **Kotlin & Flutter**
 
