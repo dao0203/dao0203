@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Iwate Prefectural University**
 
-- 🌱 I’m currently learning **Kotlin & Flutter**
+- 🌱 I’m currently learning **Kotlin & Flutter & Go**
 
 - 📝 I regularly write articles on [https://qiita.com/dao0203](https://qiita.com/dao0203)
-
-- 💬 Ask me about **Kotlin Flutter**
 
 - 📫 How to reach me **yuyudevelop0203@gmail.com**
 
