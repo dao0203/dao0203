@@ -2,9 +2,9 @@
 <h2 align="center">Iwate Prefectural University：Faculty of software and information Science</h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dao0203&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dao0203&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dao0203)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dao0203&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dao0203&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dao0203&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Iwate Prefectural University**
